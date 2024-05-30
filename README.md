@@ -1,2 +1,1 @@
-# prepcourse-henry
-este es un repositorio de prueba del modulo2 de l prep course de henry
+este es una prueba de como clonar un codigo desde github y trabajar en la pc de casa
